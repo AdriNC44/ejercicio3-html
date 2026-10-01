@@ -3,4 +3,6 @@ img{
     border: 0px;
     border-radius: 5%;
 }
-
+#err{
+    margin-left: 50px;
+}
